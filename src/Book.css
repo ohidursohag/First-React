@@ -1,0 +1,13 @@
+.book,.bookStore, .singer {
+   border: 2px solid springgreen;
+   padding: 10px 20px;
+   border-radius: 10px;
+   margin-bottom: 10px;
+}
+
+.bookStore {
+   border: 2px solid yellowgreen;
+}
+.singer {
+   border: 2px solid palegreen;
+}
